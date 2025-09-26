@@ -1,5 +1,5 @@
 # `ethOS` #####################################################################
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mdash; _the one true nanokernel_ &mdash;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash; _the one true nanokernel_ &mdash;
 
 ## About ##
 
