@@ -1,7 +1,5 @@
 # `ethOS` #####################################################################
-<div style="margin-left=4em; font-style=italic">
-&mdash; the one true nanokernel &mdash;
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mdash; _the one true nanokernel_ &mdash;
 
 ## About ##
 
@@ -29,7 +27,7 @@ and (2) squeeze every single cycle, and usefully use it.
 
 ## Licensing ##
 
-`ethOS` was made by Mario Rosell <mar1lusk1@proton.me> is under the public domain
+`ethOS` was made by Mario Rosell (mar1lusk1@proton.me) is under the public domain
 ([The Unlicense](https://unlicense.org/)), do whatever you want.
 
 ## Also read ##
